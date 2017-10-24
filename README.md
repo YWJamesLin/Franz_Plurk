@@ -1,16 +1,17 @@
 ## Plurk Franz Recipe
 
-### Source Website
+### Service Website
 https://www.plurk.com
 
 ### Notification Period
 10 seconds
 
-### Notificaton Count
-New Posts(新訊息) + Reply(未讀訊息), now they are counted as direct message
+### Notification Count
+- New Posts(新訊息) + Reply(未讀訊息)
+- now they are counted as direct messages (Plurk users may read all unread messages.)
 
-### About make a recipe of Franz
-[read this](https://github.com/meetfranz/plugins/tree/master/docs)
+### About making a recipe of Franz
+[Read this](https://github.com/meetfranz/plugins/tree/master/docs)
 
 ### Todo
 - Desktop Notifications
