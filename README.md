@@ -14,5 +14,3 @@ https://www.plurk.com
 [Read this](https://github.com/meetfranz/plugins/tree/master/docs)
 
 ### Todo
-- Desktop Notifications
-- Plurk Notification as Franz Notification
